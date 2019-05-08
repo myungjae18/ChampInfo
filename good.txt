@@ -1,0 +1,30 @@
+champion_key
+title : 챔피언 설명 ex) 아트록스 - 다르킨의 검
+blurb : 챔피언 설정 ex) 아트록스 - 아트록스는 다르킨으로 알려진 5명의 고대의 유산 중 하나인 전설적인 전사이다...
+info 
+- attack : 공격력
+- defense : 수비력
+- magic : 마력
+- difficulty : 난이도
+image
+- full : 전신사진
+- sprite : 초상화
+tags : 챔피언 분류 ex) 아트록스 - 전사, 탱커
+stats
+총 134개 챔피언 (6.24기준)
+라칸 자야 케인 오른 조이 카이사 파이크 니코 사일러스는 미포함
+===========================================
+title : Champions
+content : 챔피언 초상화들
+
+hp
+hperlevel
+mp
+mpmerlevel
+movespeed
+armor
+armorperlevel
+spellblock
+spellblockerlevel
+mpregen
+attackdamage
