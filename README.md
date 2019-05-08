@@ -1,1 +1,1 @@
-# JAVA-SE.Project
+# Java SE Personal Project
