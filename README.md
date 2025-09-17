@@ -9,11 +9,13 @@
 - 로직<br>
 (1) 이미지를 클릭했을 경우 그 이미지에 해당되는 챔피언 정보 페이지로 이동<br>
 (2) 메인 페이지를 처리하는 클래스에서 상세 정보 화면을 처리하는 클래스로 정보를 제공해줌
+  <br>
 <h3>각 이미지 클릭 시 출력되는 챔피언 상세 정보 화면</h3>
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDlfMzgg/MDAxNTU3MzI4OTQ0Mjgy.tg2iCi8vYasOr5N3H3WfS3r0XTQSLVCYEP7YIBw-Lh0g.tlYVRkcC8U7kvhw9onKQ9e3saD2HxAdQT_-emp_QgbYg.PNG.myungjae18/detail_page.PNG?type=w773"/><br>
 - 디자인<br>
 (1) JPanel을 이용하여 크게 영역을 구분한 후 다시 세부적으로 구분<br>
-(2) 표시할 챔피언 스토리의 총 글씨 수를 항상 동일하게 표시하기 위해 html 태그 및 subString 클래스 사용<br>
+(2) 표시할 챔피언 스토리의 총 글씨 수를 항상 동일하게 표시하기 위해 html 태그 및 subString 클래스 사용
+<br>
 - 로직<br>
 (1) 메인 화면 클래스로부터 받은 챔피언 이름 정보를 통해 JSON 객체 안의 있는 챔피언 정보를 검색하여 출력<br>
 *해당 JSON 파일은 라이엇 게임즈의 개발자 지원 공식 api로부터 가져옴<br><hr>
